@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#portfolio-projects)
   - Python
-    - [Financial Project](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Test)
+    - [Financial Project](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Analysis-of-Major-Bank-Stocks-Performance-from-2006-to-2016)
     - [Project name#2](https://link)  
   - SQL
     - [Project name#1](https://link)
@@ -34,18 +34,18 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Test
+### Analysis of Major Bank Stocks Performance from 2006 to 2016
 **Code:** [`Financial Project`](https://github.com/Adamshepherd36/Python_Projects/blob/main/Financial_Project.ipynb)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To analyze and compare the stock performance of major banks from 2006 to 2016, identifying trends, correlations, and significant events affecting the stock performance.
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** This project involved analyzing the stock data of six major banks: Bank of America, Citigroup, Goldman Sachs, JPMorgan Chase, Morgan Stanley, and Wells Fargo. The analysis included loading and cleaning the data, calculating daily returns, performing exploratory data analysis (EDA), and visualizing the data using various plots and statistical measures. The analysis aimed to identify trends, correlations, and significant events affecting the stock performance over the specified period.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data cleaning, data analysis, financial analysis, data visualization, time series analysis, statistical analysis.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Python, Pandas, NumPy, Seaborn, Matplotlib, Plotly, Cufflinks.
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** The analysis revealed key insights into the volatility and performance of the bank stocks. Significant findings include the identification of the most and least volatile stocks, the highest and lowest returns, and the impact of major financial events. Correlation matrices and heatmaps were used to illustrate the relationships between the different bank stocks.
 
 ### Tech Store Sales Analysis
 
