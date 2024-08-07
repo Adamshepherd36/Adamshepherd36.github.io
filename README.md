@@ -38,7 +38,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analysis of Major Bank Stocks Performance from 2006 to 2016
-**Code:** [`Financial_Project.ipynb`](https://github.com/Adamshepherd36/Python_Projects/blob/main/Financial_Project.ipynb)
+**Code:** [`Financial_Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/Financial_Project.ipynb)
 
 **Goal:** To analyze and compare the stock performance of major banks from 2006 to 2016, identifying trends, correlations, and significant events affecting the stock performance.
 
@@ -54,7 +54,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To identify the factors that contribute the most to a movie's financial success, focusing on the relationship between budget and gross earnings.
 
-**Code:** [`Movie Correlation Project.ipynb`](https://github.com/Adamshepherd36/Python_Projects/blob/main/Movie%20Correlation%20Project.ipynb)
+**Code:** [`Movie Correlation Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/Movie%20Correlation%20Project.ipynb)
 
 **Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implementing Pearson’s correlation statistical analysis.
 
@@ -68,7 +68,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To predict the likelihood of loan repayment for Lending Club loans using machine learning models.
 
-**Code:** [`Predicting Repayment_Project.ipynb`](https://github.com/Adamshepherd36/Python_Projects/blob/main/Predicting%20Repayment_Project.ipynb)
+**Code:** [`Predicting Repayment_Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/Predicting%20Repayment_Project.ipynb)
 
 **Description:** This project involved analyzing a dataset from Lending Club containing loan information such as loan amount, loan status, grade, sub-grade, interest rate, and other relevant features. The analysis included data cleaning, handling missing values, exploratory data analysis (EDA), visualizing feature correlations, and feature engineering. The core of the project was building and training a neural network model using TensorFlow to predict loan repayment. The model's performance was evaluated using classification metrics and confusion matrices.
 
@@ -82,7 +82,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To classify Yelp reviews as either positive (5 stars) or negative (1 star) using natural language processing and machine learning techniques.
 
-**Code:** [`Yelp Project.ipynb`](https://github.com/Adamshepherd36/Python_Projects/blob/main/Yelp%20Project.ipynb)
+**Code:** [`Yelp Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/Yelp%20Project.ipynb)
 
 **Description:** This project involved analyzing a dataset of Yelp reviews, including features such as review text, star ratings, and other relevant information. The analysis included data cleaning, calculating text lengths, performing exploratory data analysis (EDA), and visualizing correlations between features. The core of the project was building and evaluating a machine learning model to classify reviews as positive or negative. The model utilized CountVectorizer and TfidfTransformer for text processing and a Naive Bayes classifier for prediction.
 
@@ -96,7 +96,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To predict the yearly amount spent by customers based on their behavior and characteristics using linear regression.
 
-**Code:** [`Linear Regression Project.ipynb`](https://github.com/Adamshepherd36/Python_Projects/blob/main/Linear%20Regression%20Project.ipynb)
+**Code:** [`Linear Regression Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/Linear%20Regression%20Project.ipynb)
 
 **Description:** This project involved analyzing a dataset of e-commerce customers, including features like average session length, time on app, time on website, length of membership, and yearly amount spent. The analysis included data cleaning, performing exploratory data analysis (EDA) with visualizations, and building a linear regression model. The core of the project was to identify the key factors affecting yearly spending and to predict the spending based on these factors. The model's performance was evaluated using various regression metrics.
 
@@ -110,7 +110,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To classify universities into clusters based on various features using K-Means clustering.
 
-**Code:** [`K-Means Clustering Project.ipynb`](https://github.com/Adamshepherd36/Python_Projects/blob/main/K-Means%20Clustering%20Project.ipynb)
+**Code:** [`K-Means Clustering Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/K-Means%20Clustering%20Project.ipynb)
 
 **Description:** This project involved analyzing a dataset of universities with features including room and board costs, graduation rate, number of undergraduates, and out-of-state tuition. The analysis included data cleaning, exploratory data analysis (EDA) with visualizations, and applying the K-Means clustering algorithm. The project aimed to cluster universities into two groups and evaluate the clustering performance using confusion matrix and classification report.
 
@@ -124,7 +124,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Goal:** To classify customers into target classes using the K-Nearest Neighbors (KNN) algorithm.
 
-**Code:** [`K Nearest Neighbors Project.ipynb`](https://github.com/Adamshepherd36/Python_Projects/blob/main/K%20Nearest%20Neighbors%20Project.ipynb)
+**Code:** [`K Nearest Neighbors Project.ipynb`](https://github.com/Adamshepherd36/Projects/blob/main/K%20Nearest%20Neighbors%20Project.ipynb)
 
 **Description:** This project involved analyzing a dataset containing customer information with various features and a target class. The analysis included data cleaning, scaling the features using StandardScaler, performing exploratory data analysis (EDA) with visualizations, and applying the K-Nearest Neighbors algorithm. The project aimed to classify customers into target classes and to evaluate the model's performance using confusion matrix, classification report, and error rate plots to determine the optimal value of K.
 
@@ -135,7 +135,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** The K-Nearest Neighbors classifier successfully classified the customers into target classes. The model's performance was evaluated using a confusion matrix and classification report, providing insights into accuracy, precision, recall, and F1-score. An error rate plot was used to determine the optimal number of neighbors (K), and the final model was retrained using this optimal value, resulting in improved classification performance.
 
 ### SQL Data Analysis on COVID-19 Data
-**Code:** [`Covid Project.sql`](https://github.com/Adamshepherd36/SQL_Projects/blob/main/Covid%20Project.sql)
+**Code:** [`Covid Project.sql`](https://github.com/Adamshepherd36/Projects/blob/main/Covid%20Project.sql)
 
 **Description:** This project involved a series of SQL tasks to manage and analyze COVID-19 data. The tasks included selecting specific data for high-income locations, updating tables to handle null values, and creating views to calculate total cases, deaths, and vaccination percentages. Key queries were designed to calculate death rates, infection rates, and identify regions with the highest infection and death counts. Additionally, a common table expression (CTE) and temporary tables were used to facilitate complex data aggregation and analysis.
 
