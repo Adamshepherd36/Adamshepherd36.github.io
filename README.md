@@ -7,9 +7,9 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-[Website Link](https://adamshepherd36.github.io/)
-This folder contains a simple website project designed to showcase my skills in HTML and to provide an online portfolio of my other projects.
-My CV in [pdf](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/CV%20-%20Adam%20Shepherd.pdf).
+My [Website](https://adamshepherd36.github.io/)
+contains a simple website project designed to showcase my skills in HTML and to provide an online portfolio of my other projects.
+My CV can be found [here](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/CV%20-%20Adam%20Shepherd.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
