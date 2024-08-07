@@ -116,9 +116,14 @@ input, select, textarea {
 /* Type */
 
 	html {
+		
 		font-size: 16pt;
 	}
+	.blue-text {
+		color: #18bfef;
 
+		
+	}
 		@media screen and (max-width: 1680px) {
 
 			html {
@@ -2037,27 +2042,28 @@ input, select, textarea {
 
 /* Box */
 
-	.box {
-		border: solid 2px;
-		margin-bottom: 2rem;
-		padding: 1.5rem;
-	}
+.box {
+    border: solid 2px;
+    border-radius: 10px; /* Add rounded corners */
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    border-color: #18bfef; /* Change border color */
+}
 
-		.box > :last-child,
-		.box > :last-child > :last-child,
-		.box > :last-child > :last-child > :last-child {
-			margin-bottom: 0;
-		}
+.box > :last-child,
+.box > :last-child > :last-child,
+.box > :last-child > :last-child > :last-child {
+    margin-bottom: 0;
+}
 
-		.box.alt {
-			border: 0;
-			border-radius: 0;
-			padding: 0;
-		}
+.box.alt {
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+}
 
-	.box {
-		border-color: #eeeeee;
-	}
+
 
 /* Button */
 
@@ -3700,6 +3706,33 @@ input, select, textarea {
 			text-transform: uppercase;
 		}
 
+
+		#nav .links {
+			display: flex;
+			align-items: center; /* Center items vertically */
+			padding: 0; /* Remove padding from the ul element */
+			margin: 0; /* Remove margin from the ul element */
+			list-style: none; /* Remove default list styling */
+		}
+		
+		#nav .links li {
+			padding: 0.5rem 1rem; /* Add padding for better appearance */
+			text-align: center; /* Center the text */
+			position: relative; /* Required for positioning the border */
+			flex: 1; /* Make all list items take equal width */
+			max-width: 150px; /* Set the maximum width you prefer */
+			box-sizing: border-box; /* Ensure padding and border are included in the width */
+		}
+		
+		#nav .links li + li {
+			border-left: 2px solid lightgrey; /* Add vertical border to separate the items */
+		}
+		
+		#nav .links li a {
+			text-decoration: none; /* Remove underline from links */
+			color: inherit; /* Inherit text color */
+		}		
+
 			#nav ul.links li {
 				display: block;
 				padding-left: 0;
@@ -3717,8 +3750,7 @@ input, select, textarea {
 				}
 
 					#nav ul.links li a:hover {
-						color: inherit !important;
-						background-color: rgba(255, 255, 255, 0.1);
+						color: #18bfef !important;
 					}
 
 				#nav ul.links li.active {
@@ -4243,6 +4275,7 @@ input, select, textarea {
 					align-items: center;
 					padding: 3.15rem 4rem;
 				}
+				
 
 					#footer > section.split.contact > section > * {
 						margin-bottom: 0;
