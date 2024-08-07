@@ -7,7 +7,7 @@ During my studies, I honed my ability to work with complex data and developed a 
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-My CV in [pdf](.........).
+My CV in [pdf](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/CV%20-%20Adam%20Shepherd.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
@@ -23,12 +23,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [K-Means Clustering on College Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#K-Means-Clustering-on-College-Data) 
     - [K-Nearest Neighbors Classification on Customer Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#K-Nearest-Neighbors-Classification-on-Customer-Data)   
   - SQL
-    - [SQL Project name#1](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#)
-    - [SQL Project name#2](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#)
-  - R
-    - [Project name#1](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#)
-  - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#_public)
+    - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#SQL-Data-Analysis-on-COVID-19-Data)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
   - Power BI
   
 
@@ -136,67 +132,58 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** The K-Nearest Neighbors classifier successfully classified the customers into target classes. The model's performance was evaluated using a confusion matrix and classification report, providing insights into accuracy, precision, recall, and F1-score. An error rate plot was used to determine the optimal number of neighbors (K), and the final model was retrained using this optimal value, resulting in improved classification performance.
 
-### SQL Project name#1
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+### SQL Data Analysis on COVID-19 Data
+**Code:** [`Covid Project.sql`](https://github.com/Adamshepherd36/SQL_Projects/blob/main/Covid%20Project.sql)
 
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
+**Description:** This project involved a series of SQL tasks to manage and analyze COVID-19 data. The tasks included selecting specific data for high-income locations, updating tables to handle null values, and creating views to calculate total cases, deaths, and vaccination percentages. Key queries were designed to calculate death rates, infection rates, and identify regions with the highest infection and death counts. Additionally, a common table expression (CTE) and temporary tables were used to facilitate complex data aggregation and analysis.
 
 
-### SQL Project name#2
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+**Skills:** SQL query writing, data cleaning, data manipulation, data aggregation, creating views, handling null values, working with CTEs and temporary tables.
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
+**Technology:** SQL, Microsoft SQL Server (or similar RDBMS).
 
 
 
 ### Legendary Pokémon Analysis
 
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
+**Goal:** 
 
 **Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
 
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
+**Description:** 
 
-**Skills:** data cleaning, data analysis, data visualization.
+**Skills:** 
 
-**Technology:** Tidyverse 
+**Technology:**  
 
 
 
 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+Swansea University, UK  
+Bachelor's of Science - BSc, Accouting and Finance,
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
+Teign School Academy, UK
+A & AS Level Modules:
+- Math, Geography, Photography, Physics and Chemistry 
 
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Advanced Google Analytics](https://analytics.google.com/analytics/academy/course/7) (Aug 2024) (LinkedIn - Google)
+- [70-461, 761: Querying Microsoft SQL Server with Transact-SQL](https://www.udemy.com/course/70-461-session-2-querying-microsoft-sql-server-2012/) (July 2024) (Phillip Burton - Udemy)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamphtml) (July 2024) (Jose Portilla - Udemy)
+- [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) (July 2024) (Al Sweigart - Udemy)
+- [Building Interactive Dashboards with Tableau](https://www.udemy.com/course/building-interactive-dashboards-with-tableau/) (July 2024) (Packt Publishing - Udemy)
+- [Power BI A-Z: Hands-On Power BI Training For Data Science!](https://www.udemy.com/course/mspowerbi/?kw=Power+BI+A-Z%3A+Hands-On+Power+BI+Training+For+Data+Science%21&src=sac) (July 2024) (Kirill Eremenko - Udemy)
+- [Statistics for Data Science and Business Analysis](https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/?kw=Statistics+for+Data+Science+and+Business+Analysis&src=sac) (June 2024) (365 Careers - Udemy)
+- [SQL - MySQL for Data Analytics and Business Intelligence](https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/?kw=SQL+-+MySQL+for+Data+Analytics+and+Business+Intelligence&src=sac&couponCode=ST10MT8624) (June 2024) (365 Careers - Udemy)
+
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
-
+- LinkedIn: [@AdamShepherd](https://www.linkedin.com/in/adam-shepherd-710700203/)
+- Email: adam.shepherd2016@outlook.com
 
 Website Description [Website Link](https://adamshepherd36.github.io/)
 This folder contains a simple website project designed to showcase my skills in HTML and to provide an online portfolio of my other projects. The website includes:
