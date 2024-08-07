@@ -28,6 +28,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [SQL Data Analysis on COVID-19 Data](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#SQL-Data-Analysis-on-COVID-19-Data)
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/adam.shepherd6632/vizzes)
   - Power BI
+  - Excel
+    - [Bike Sales Analysis Dashboard](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Bike-Sales-Analysis-Dashboard)
+    - [Financial Performance and Balance Sheet Analysis](https://github.com/Adamshepherd36/Adamshepherd36.github.io/blob/main/README.md#Financial-Performance-and-Balance-Sheet-Analysis)
   
 
 
@@ -144,9 +147,35 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Technology:** SQL, Microsoft SQL Server (or similar RDBMS).
 
+#### Sales Analysis Dashboard
+**Code:** [`Bike Sales - Project.xlsx`](https://github.com/Adamshepherd36/Projects/blob/main/Bike%20Sales%20-%20Project.xlsx)
+
+**Description:** This project involved analyzing bike sales data using Excel to provide insights into customer behavior, sales trends, and other key metrics. The primary objectives were to clean and prepare the data, perform data analysis, and create visualizations and dashboards to present the findings effectively. The analysis included:
+
+- Data Import and Preparation: Imported data from multiple sheets (bike_buyers, Working Sheet, Pivot Table, and Dashboard). Cleaned and transformed the data to ensure consistency and accuracy, handling missing values and correcting data types where necessary.
+- Data Analysis: Performed exploratory data analysis (EDA) to understand the distribution and relationships within the data. Analyzed key metrics such as customer demographics, purchase behavior, and sales performance.
+- Data Visualization: Created various charts and graphs, including bar charts, pie charts, and line graphs. Used PivotTables to summarize and aggregate data.
+- Dashboard Creation: Designed an interactive dashboard with slicers and filters to display key metrics and visualizations.
 
 
+**Skills:** Data cleaning, data analysis, data visualization, dashboard creation.
 
+**Technology:** Microsoft Excel.
+
+#### Financial Performance and Balance Sheet Analysis
+**Code:** [`Financial P&L, BS Project.xlsx`](https://github.com/Adamshepherd36/Projects/blob/main/Financial%20P%26L%2C%20BS%20Project.xlsx)
+
+**Description:** This project involved analyzing financial data using Excel to provide insights into the company's performance and financial position. The primary objectives were to clean and prepare the data, perform financial analysis, and create visualizations and dashboards to present the findings effectively. The analysis included:
+
+- Data Import and Preparation: Imported data from multiple sheets, including data source, balance sheets (2014-2016), P&L, fixed asset roll forward, financial liabilities, equity schedule, and cash flow. Cleaned and transformed the data to ensure consistency and accuracy.
+- Financial Analysis: Performed detailed financial analysis, including calculating key metrics such as revenue, cost of goods sold, gross profit, operating expenses, EBITDA, and net income. Analyzed the components of the balance sheet, including assets, liabilities, and equity.
+- Data Visualization: Created various charts and graphs to visualize the financial data, including line charts, bar charts, and tables. Used Excel formulas and functions to calculate variances and forecast future performance.
+- Dashboard Creation: Designed interactive dashboards to display key financial metrics and visualizations. Included slicers and filters to allow users to customize their view of the data, enhancing interactivity and usability.
+
+
+**Skills:** Data cleaning, financial analysis, data visualization, dashboard creation, forecasting.
+
+**Technology:** Microsoft Excel.
 
 
 ## Education
