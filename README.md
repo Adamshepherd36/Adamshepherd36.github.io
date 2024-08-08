@@ -180,7 +180,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ## Education
 Swansea University, UK  
-Bachelor's of Science - BSc, Accouting and Finance,
+Bachelor's of Science - BSc, Accouting and Finance, 2:1
 
 Teign School Academy, UK
 A & AS Level Modules:
